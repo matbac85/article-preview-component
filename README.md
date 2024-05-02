@@ -1,19 +1,28 @@
 # Article Preview Component
 
-This repository contains an article preview component built using HTML, CSS, and JavaScript. The component follows the BEM (Block Element Modifier) methodology for CSS organization.
+![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
+
+## Overview
+
+This article preview component was developed as a solution to the Frontend Mentor challenge. The challenge was to build out an article preview component that closely matches the provided design.
 
 ## Features
 
-- Responsive design: The component adjusts its layout based on the screen size of the user's device.
-- Content display: It showcases the title, author's photo, and a brief summary of a blog article.
-- Social media sharing: Upon clicking the "share" button, a modal appears, providing options to share the article on various social media platforms.
-- Modal behavior: Clicking the "share" button again hides the modal.
-- Device-specific styling: The modal is styled differently depending on whether the user is on a desktop or mobile device.
+- Responsive layout for different screen sizes
+- Implementation of social media share links when the share icon is clicked
 
-## Challenge Description
+## Expected Behavior
 
-The challenge was to replicate the design of the article preview component and ensure it closely resembles the provided design. Participants were encouraged to utilize any preferred tools or frameworks. The only JavaScript functionality required was to trigger the display of social media share options upon clicking the share icon.
+- Users should be able to view the optimal layout for the component depending on their device's screen size.
+- Social media share links should be displayed when the share icon is clicked.
 
-## Preview
+## Technologies Used
 
-[Click here](https://matbac85.github.io/article-preview-component/) to view the live preview of the article preview component.
+- HTML
+- CSS
+- JavaScript (for initiating the share options)
+
+## Links
+
+- Solution URL: [Article Preview Component Solution](https://matbac85.github.io/article-preview-component/)
+- Frontend Mentor Profile: [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/matbac85)
